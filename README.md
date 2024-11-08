@@ -3,8 +3,7 @@ HelloWorldProject
 A simple C++ "Hello, World!" project built using CMake.
 
 Project Structure
-css
-Copy code
+
 HelloWorldProject/
 ├── CMakeLists.txt
 └── src/
