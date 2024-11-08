@@ -19,7 +19,7 @@ Follow these instructions to set up, build, and run the project.
 
 Step 1: Clone the Repository
 If this project is in a repository, clone it. Otherwise, navigate to the project directory.
-git clone https://github.com/username/HelloWorldProject.git
+git clone https://github.com/TusharNaugain/Hello-World-Dummy.git
 cd HelloWorldProject.
 
 
