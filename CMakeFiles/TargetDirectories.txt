@@ -1,0 +1,3 @@
+/Users/tushar/Documents/dummy/HelloWorldProject/build/CMakeFiles/hello_world.dir
+/Users/tushar/Documents/dummy/HelloWorldProject/build/CMakeFiles/edit_cache.dir
+/Users/tushar/Documents/dummy/HelloWorldProject/build/CMakeFiles/rebuild_cache.dir
